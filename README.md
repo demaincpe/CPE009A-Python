@@ -1,2 +1,2 @@
 # CPE009A-Python
-Repository for CPE009A Projects. This
+Repository for CPE009A Projects. This will be a repository wherein all CPE009A files would be posted.
